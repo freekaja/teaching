@@ -1,4 +1,4 @@
-// C++
+// C++ A sample Hello World
 
 #include <iostream>
 
