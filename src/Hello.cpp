@@ -1,5 +1,4 @@
 // C++ A sample Hello World
-// C++ A sample Hello World
 
 #include <iostream>
 
